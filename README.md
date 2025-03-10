@@ -1,4 +1,4 @@
-# JOE OKETCH here...
+# OKETCH JOE here...
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JWokiri)](https://twitter.com/JWokiri)
@@ -6,15 +6,19 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCt8lLDi8GSnuypg5bSlFAhw)](https://www.youtube.com/channel/UCt8lLDi8GSnuypg5bSlFAhw)
 
 
-I am a well rounded (and getting better) python and javascript developer.
+I strive to get to the end, that is, deliver functional software solutions.
 
-This combination serves much in aiding me through GIS development tasks, which I do both in desktop and the web.
+Philosophy: DRY, Pluggable, optimized algorithms
 
-Check out this [**World Clock**](https://wokiri.github.io/world_clock.html) map for example or this [**Distance Measurement**](https://wokiri.github.io/measure_distances.html) map.
+Special appriciation for FOSS, linux...
+
+BE: DRF
+FE: vite + React (ts), tailwind
+DB: Postgres
+GIS: PostGIS, QGIS & QGIS plugins, OL
+DS: python
+Visualization: Bokeh, Plotly, D3
+DEPLOYMENT: Docker
 
 
-
-
-
-
-GitHub Web Page: [**Summit GIS Page**](https://wokiri.github.io/).
+GitHub Web Page: [**I've been busy, but this will do, ancient albeit!**](https://wokiri.github.io/).
