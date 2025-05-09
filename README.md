@@ -7,7 +7,7 @@
 
 
 
-I strive to get to the end, that is, deliver functional software solutions.
+I WORK!, that is, deliver functional software solutions.
 
 Philosophy: DRY, Pluggable, optimized algorithms
 
