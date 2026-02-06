@@ -29,7 +29,7 @@ Engineering, to me, is the point of intersection between **technical rigor and h
 - **Visualization:** Bokeh, Plotly, D3  
 - **Deployment:** Docker (reproducible, offline-friendly)
 
-My passion lies at the intersection of **geospatial systems, data and applied machine learning** interfaced via thoughtful software— creating tools that support analysis, automate tasks, and inform better decisions.
+My passion lies at the intersection of **geospatial systems, data and applied machine learning** using thoughtful software to bridge these domains into practical tools for analysis, automation, and insight.
 
 🔗 **Connect & Explore**  
 [![Twitter Follow](https://img.shields.io/twitter/follow/JWokiri?label=Follow&style=social)](https://twitter.com/JWokiri)
